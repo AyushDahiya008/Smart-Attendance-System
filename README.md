@@ -11,44 +11,37 @@ Libraries Used :
 
 
 [1] face_recognition
-
-Explanation: This library is used for face detection and recognition. It allows the loading of images, encoding of faces, and comparing face encodings to identify individuals.
+ This library is used for face detection and recognition. It allows the loading of images, encoding of faces, and comparing face encodings to identify individuals.
 Usage: It is the core library used to identify and recognize faces from the webcam feed and the preloaded images.
 
 
 [2] cv2 (OpenCV)
-
-Explanation: OpenCV is an open-source computer vision library that allows image and video processing.
+ OpenCV is an open-source computer vision library that allows image and video processing.
 Usage: It is used to capture video from the webcam, resize frames for faster processing, and display the video with detected faces.
 
 
 [3] numpy
-
-Explanation: NumPy is a fundamental package for scientific computing with Python. It provides support for arrays and matrices, along with a collection of mathematical functions.
+ NumPy is a fundamental package for scientific computing with Python. It provides support for arrays and matrices, along with a collection of mathematical functions.
 Usage: It is used for handling and manipulating image data efficiently, such as resizing frames and converting image formats.
 
 
 [4] os
-
-Explanation: The os module provides a way of using operating system-dependent functionality, such as reading or writing to the filesystem.
+ The os module provides a way of using operating system-dependent functionality, such as reading or writing to the filesystem.
 Usage: It is used to read the current folder path and handle file paths for loading images.
 
 
 [5] xlwt
-
-Explanation: xlwt is a library for writing data to Excel files.
+ xlwt is a library for writing data to Excel files.
 Usage: It is used to create a new Excel workbook and write attendance data to it.
 
 
 [6] xlrd
-
-Explanation: xlrd is a library for reading data from Excel files.
+ xlrd is a library for reading data from Excel files.
 Usage: It is used to read an existing Excel file to copy its contents when updating attendance data.
 
 
 [7] xlutils.copy
-
-Explanation: This module allows copying and editing Excel files read by xlrd.
+ This module allows copying and editing Excel files read by xlrd.
 Usage: It is used to copy the structure and data of an existing Excel workbook to update attendance records.
 
 
@@ -87,5 +80,3 @@ The system runs in a loop until the user decides to quit (by pressing 'q'), ensu
 
 
 
-Conclusion :
-This Smart Attendance System demonstrates an efficient application of computer vision and data management libraries in Python. By automating attendance tracking, it ensures accuracy and saves time, making it a valuable tool for various organizations. The integration of face recognition technology adds a layer of security and convenience, making the process seamless and reliable.
