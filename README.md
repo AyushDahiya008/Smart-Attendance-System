@@ -1,5 +1,11 @@
 This project is a Smart Attendance System that uses facial recognition to mark the attendance of students automatically. By leveraging several Python libraries, the system can detect faces in real-time using a webcam, match these faces with a preloaded set of known images, and log attendance data into an Excel file. This system provides an efficient and accurate way to track attendance, eliminating the need for manual processes.
 
+OUTPUT : 
+
+
+https://github.com/AyushDahiya008/Smart-Attendance-System/assets/158088706/69e7d484-a20d-43b3-a945-f02bc227528f
+
+
 
 Libraries Used : 
 
