@@ -7,7 +7,7 @@ https://github.com/AyushDahiya008/Smart-Attendance-System/assets/158088706/69e7d
 
 
 
-Libraries Used : 
+LIBRARIES USED : 
 
 
 [1] face_recognition
@@ -46,13 +46,15 @@ Usage: It is used to copy the structure and data of an existing Excel workbook t
 
 
 
-Importance of the Project : 
+
+IMPORTANCE OF PROJECT : 
 The Smart Attendance System automates the attendance marking process, which is traditionally done manually. This automation ensures higher accuracy, saves time, and minimizes errors. It is particularly useful in educational institutions, workplaces, and any environment where regular attendance tracking is necessary. By using facial recognition, the system also enhances security and ensures that the attendance data is reliable and tamper-proof.
 
 
 
 
-How It Works :
+
+WORKING :
 1) Initialization
 The script begins by capturing video from the default webcam using OpenCV (cv2.VideoCapture(0)).
 
